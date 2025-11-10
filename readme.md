@@ -29,6 +29,6 @@ This repository contains the implementation of CaberNet and several benchmark mo
   Contains results from training and causal inference experiments.  
 
 ## Notes
-- Before running, please adjust the files related to data processing and data engineering to the correct format.
+- Due to commercial restrictions, our original HVAC datasets cannot be publicly shared at this time. Before running, please adjust the files related to data processing and data engineering to the correct format.
 - Feel free to post a issue or connect if there are any quesions:
 rickzky1001@163.com
