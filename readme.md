@@ -1,4 +1,6 @@
 This repository contains the code for the paper *"CaberNet: Causal Representation Learning for Cross-Domain HVAC Energy Prediction"*, which has been **accepted as a full paper at ACM e-Energy 2026**.
+
+The paper is now available at https://arxiv.org/abs/2511.06634.
 ## Overview
 This repository contains the implementation of CaberNet and several benchmark models for energy prediction and causal inference experiments.
 
